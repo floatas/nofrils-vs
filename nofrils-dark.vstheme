@@ -1750,11 +1750,11 @@
       </Color>
       <Color Name="xml literal - attribute quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF92CAF4" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="xml literal - attribute value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="xml literal - cdata section">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7233,7 +7233,7 @@
       </Color>
       <Color Name="XAML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF808080" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="XAML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7261,7 +7261,7 @@
       </Color>
       <Color Name="XAML Attribute Quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF808080" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="XAML Markup Extension Class">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7285,7 +7285,7 @@
       </Color>
       <Color Name="XML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF808080" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="XML Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7305,7 +7305,7 @@
       </Color>
       <Color Name="XML Attribute Quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF808080" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="XSLT Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
